@@ -7,3 +7,4 @@ __pycache__
 *.pyz
 
 data/dataset/SFPI/
+output/final_model.pth
