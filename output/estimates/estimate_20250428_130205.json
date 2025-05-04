@@ -1,0 +1,1974 @@
+{
+  "total_cost": 19572.0,
+  "material_costs": {
+    "concrete": 960.0,
+    "flooring": 11875.0,
+    "ceiling": 55.0,
+    "door": 700.0,
+    "roof": 390.0
+  },
+  "labor_costs": {
+    "total": 5592.0
+  },
+  "categories": {
+    "structural": {
+      "total_cost": 960.0,
+      "items": [
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "concrete",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 120.0,
+          "location_factor": 1.0,
+          "total_cost": 120.0,
+          "currency": "USD"
+        }
+      ]
+    },
+    "envelope": {
+      "total_cost": 0.0,
+      "items": [
+        {
+          "material_name": "glass",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        }
+      ]
+    },
+    "interior": {
+      "total_cost": 11930.0,
+      "items": [
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "ceiling",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 55.0,
+          "location_factor": 1.0,
+          "total_cost": 55.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "flooring",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 95.0,
+          "location_factor": 1.0,
+          "total_cost": 95.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "furniture",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        }
+      ]
+    },
+    "mep": {
+      "total_cost": 0.0,
+      "items": [
+        {
+          "material_name": "electrical",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "electrical",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "electrical",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        }
+      ]
+    },
+    "other": {
+      "total_cost": 1090.0,
+      "items": [
+        {
+          "material_name": "door",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 350.0,
+          "location_factor": 1.0,
+          "total_cost": 350.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "site",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "roof",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 65.0,
+          "location_factor": 1.0,
+          "total_cost": 65.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "door",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": 350.0,
+          "location_factor": 1.0,
+          "total_cost": 350.0,
+          "currency": "USD"
+        },
+        {
+          "material_name": "masonry",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        },
+        {
+          "material_name": "security",
+          "quantity": 1.0,
+          "unit": "each",
+          "unit_cost": "unknown",
+          "location_factor": 1.0,
+          "total_cost": 0.0,
+          "currency": "USD",
+          "note": "Material not found in database"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "materials_subtotal": 13980.0,
+    "labor_subtotal": 5592.0,
+    "total": 19572.0,
+    "currency": "USD"
+  },
+  "location_factor": 1.0,
+  "currency": "USD",
+  "timestamp": "2025-04-28 13:02:05",
+  "project_info": {
+    "name": "data.dxf",
+    "location": "Default",
+    "drawing_units": "mm",
+    "drawing_scale": "metric",
+    "estimation_date": "2025-04-28"
+  }
+}

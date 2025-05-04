@@ -1,0 +1,125 @@
+{
+  "file_info": {
+    "file_name": "test_building.dxf",
+    "file_path": "test_building.dxf",
+    "file_type": "dxf",
+    "version": "R2010"
+  },
+  "entities": [
+    {
+      "type": "LINE",
+      "layer": "WALL-BRICK",
+      "length": 10.5,
+      "material": "brick"
+    },
+    {
+      "type": "LINE",
+      "layer": "WALL-BRICK",
+      "length": 12.3,
+      "material": "brick"
+    },
+    {
+      "type": "POLYLINE",
+      "layer": "FLOOR-CONCRETE",
+      "area": 150.0,
+      "material": "concrete"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "COLUMN-STEEL",
+      "area": 0.5,
+      "material": "steel"
+    },
+    {
+      "type": "CIRCLE",
+      "layer": "COLUMN-STEEL",
+      "area": 0.5,
+      "material": "steel"
+    },
+    {
+      "type": "LINE",
+      "layer": "WALL-DRYWALL",
+      "length": 8.2,
+      "material": "drywall"
+    },
+    {
+      "type": "LINE",
+      "layer": "WALL-DRYWALL",
+      "length": 7.5,
+      "material": "drywall"
+    },
+    {
+      "type": "LINE",
+      "layer": "WALL-DRYWALL",
+      "length": 6.8,
+      "material": "drywall"
+    }
+  ],
+  "layers": {
+    "WALL-BRICK": {
+      "name": "WALL-BRICK",
+      "color": 1,
+      "linetype": "CONTINUOUS",
+      "is_on": true,
+      "is_locked": false,
+      "entities_count": 2,
+      "area": 0.0,
+      "volume": 0.0,
+      "length": 22.8,
+      "material_hint": {
+        "material": "brick",
+        "confidence": "high"
+      }
+    },
+    "FLOOR-CONCRETE": {
+      "name": "FLOOR-CONCRETE",
+      "color": 2,
+      "linetype": "CONTINUOUS",
+      "is_on": true,
+      "is_locked": false,
+      "entities_count": 1,
+      "area": 150.0,
+      "volume": 0.0,
+      "length": 0.0,
+      "material_hint": {
+        "material": "concrete",
+        "confidence": "high"
+      }
+    },
+    "COLUMN-STEEL": {
+      "name": "COLUMN-STEEL",
+      "color": 3,
+      "linetype": "CONTINUOUS",
+      "is_on": true,
+      "is_locked": false,
+      "entities_count": 2,
+      "area": 1.0,
+      "volume": 0.0,
+      "length": 0.0,
+      "material_hint": {
+        "material": "steel",
+        "confidence": "high"
+      }
+    },
+    "WALL-DRYWALL": {
+      "name": "WALL-DRYWALL",
+      "color": 4,
+      "linetype": "CONTINUOUS",
+      "is_on": true,
+      "is_locked": false,
+      "entities_count": 3,
+      "area": 0.0,
+      "volume": 0.0,
+      "length": 22.5,
+      "material_hint": {
+        "material": "drywall",
+        "confidence": "high"
+      }
+    }
+  },
+  "blocks": {},
+  "metadata": {
+    "units": "mm",
+    "dimension_style": "metric"
+  }
+} 

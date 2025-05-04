@@ -1,0 +1,111 @@
+{
+  "doors": {
+    "count": 0,
+    "sources": {
+      "dxf": {
+        "count": 0,
+        "confidence": "low"
+      },
+      "vision": {
+        "count": 0,
+        "confidence": "low"
+      }
+    }
+  },
+  "security_cameras": {
+    "count": 0,
+    "sources": {
+      "dxf": {
+        "count": 0,
+        "confidence": "low"
+      },
+      "vision": {
+        "count": 0,
+        "confidence": "low"
+      }
+    }
+  },
+  "furniture": {
+    "tables": {
+      "count": 0,
+      "sources": {
+        "dxf": {
+          "count": 0,
+          "confidence": "low"
+        },
+        "vision": {
+          "count": 0,
+          "confidence": "low"
+        }
+      }
+    },
+    "chairs": {
+      "count": 0,
+      "sources": {
+        "dxf": {
+          "count": 0,
+          "confidence": "low"
+        },
+        "vision": {
+          "count": 0,
+          "confidence": "low"
+        }
+      }
+    },
+    "cabinets": {
+      "count": 0,
+      "sources": {
+        "dxf": {
+          "count": 0,
+          "confidence": "low"
+        },
+        "vision": {
+          "count": 0,
+          "confidence": "low"
+        }
+      }
+    },
+    "other": {
+      "count": 0,
+      "sources": {
+        "dxf": {
+          "count": 0,
+          "confidence": "low"
+        },
+        "vision": {
+          "count": 0,
+          "confidence": "low"
+        }
+      }
+    }
+  },
+  "confidence_levels": {
+    "doors": "low",
+    "security_cameras": "low",
+    "furniture": {
+      "tables": "low",
+      "chairs": "low",
+      "cabinets": "low",
+      "other": "low"
+    }
+  },
+  "source_details": {
+    "dxf": {
+      "metadata": {},
+      "page_details": [],
+      "processing_info": {}
+    },
+    "vision": {
+      "metadata": {},
+      "page_details": [
+        {
+          "page_number": 1,
+          "image_path": "ai_counting_test\\pdf_images\\page_1.png",
+          "analysis_success": false,
+          "error": "Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}"
+        }
+      ],
+      "processing_info": {}
+    }
+  }
+}

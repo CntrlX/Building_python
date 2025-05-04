@@ -1,0 +1,2463 @@
+{
+  "structural": {
+    "concrete": {
+      "materials": [
+        {
+          "material": "concrete",
+          "source": "block:X-PRECAST 3RD FLR",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$A_WC_concealed",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:X-PRECAST 3RD FLR$0$W2950",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$A_WC_concealed",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-PRECAST 1ST FLR",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$X-SECOND FLOOR PLAN$0$A_WC_concealed",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-PRECAST 1ST FLR$0$W2950",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "concrete",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-PRECAST 1ST FLR$0$A$C2EBF2D83",
+          "confidence": "medium",
+          "category": "structural",
+          "subcategory": "concrete",
+          "count": 1,
+          "cost_factor": 1.0
+        }
+      ],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 8,
+        "materials": [
+          "concrete"
+        ]
+      }
+    },
+    "steel": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "wood": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 8,
+      "material_count": 1
+    }
+  },
+  "envelope": {
+    "masonry": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "glazing": {
+      "materials": [
+        {
+          "material": "glass",
+          "source": "layer:X-TAGS & REFS 3RD FLR DM$0$A-WINDOW TAGGING",
+          "confidence": "medium",
+          "category": "envelope",
+          "subcategory": "glazing",
+          "volume": 0.0,
+          "area": 0.0,
+          "length": 0.0,
+          "cost_factor": 1.5
+        }
+      ],
+      "totals": {
+        "volume": 0.0,
+        "area": 0.0,
+        "length": 0.0,
+        "item_count": 1,
+        "materials": [
+          "glass"
+        ]
+      }
+    },
+    "insulation": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "roofing": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0.0,
+      "area": 0.0,
+      "length": 0.0,
+      "item_count": 1,
+      "material_count": 1
+    }
+  },
+  "interior": {
+    "partitions": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "finishes": {
+      "materials": [
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$D950X200X2",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$D1000X100",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C58483BEB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C6ABD5CE6",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$CAB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C27BC2EAB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$$0$FGVBTRNBDH",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$FHC",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C597C7604",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C74E5669A",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$year 10-12",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$M_Toilet-Domestic-3D - M_Toilet-Domestic-3D-490976-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$M_Sink Vanity-Square - 500 x 440mm-539530-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C17231694",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$SYMBOL",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$TH",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$D800X200",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C1E4C3988",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C7EE56842",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C47273B53",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C07AE41E6",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C6DDB4F53",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C539639B0",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C5087770B",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C0CDA20C2",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C38633D35",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$rrr",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C6456007C",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C22141073",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C7E961780",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C3CCA4AEB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C2DF47F7B",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C20571EA7",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C76C104C1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C4B3A3DDA",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C43C37432",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C286A5F01",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$Q34g3r",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$xref_2F$0$xref_2F$0$X-Plan b1F$0$A$C612B66CF",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$X-PLAN_SECOND$0$P-WORK STATION-2",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:X-3rdFloorPlan$0$A$C602F3DD0",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$M_Toilet-Domestic-3D - M_Toilet-Domestic-3D-490976-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$M_Sink Vanity-Square - 500 x 440mm-539530-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$SYMBOL",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$X-SECOND FLOOR PLAN$0$TH",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$$0$FGVBTRNBDH",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$FHC",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-3rdFloorPlan$0$A$C597C7604",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-3F_06oct2015$0$X-1stFloorPlan$0$D1000X100",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:SKWSB-03 ADMINISTRATION FIRST FLOOR$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:SKWSB-03 ADMINISTRATION FIRST FLOOR$0$LAYOUT2$0$P-CHAIR-4",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:xref-FF_06oct2015$0$X-GroundFloorPlan$0$M_Sink Vanity-Square - 500 x 440mm-539530-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$ARW",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$ArchTick",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-COL 1ST",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$DS-LVL-Plan-01",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$TICK1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$D950X200X2",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$D1000X100",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C58483BEB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C6ABD5CE6",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$year 10-12",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$CAB",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$M_Toilet-Domestic-3D - M_Toilet-Domestic-3D-490976-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$M_Sink Vanity-Square - 500 x 440mm-539530-00-Ground Floor Plan",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$X-SECOND FLOOR PLAN$0$SYMBOL",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$X-SECOND FLOOR PLAN$0$1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$X-SECOND FLOOR PLAN$0$TH",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$D800X200",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$FHC",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C24E32159",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C5BF879FE",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C47273B53",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$D1800X200",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$2_CK-401CKJ28",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C1E4C3988",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C7EE56842",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C74E5669A",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$ttt",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$rrr",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C63DF3A99",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C1126529B",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C30E364F0",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C4FF83ED4",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C06E80FF4",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C07AE41E6",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C6DDB4F53",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C539639B0",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C5087770B",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C0CDA20C2",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C38633D35",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$LAYOUT2$0$P-CHAIR-4",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$2_PT-C20AR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$confrence table",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$xref_GF$0$A$C544735EF",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$A$C7DC8686B",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$Family1 - Type 1-266147-00-GROUND FLOOR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$Family22 - Type 1-665492-00-GROUND FLOOR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$X-3rdFloorPlan$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$classroom",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-GRID$0$DS-Main-Grid",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-GRID$0$DIMTICK",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-COL 1ST$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-COL 1ST$0$D1100x200",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-COL 1ST$0$LIFT CAR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-COL 1ST$0$FHC",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-TAGS & REFS 1ST FLR DM$0$TICK1",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-TAGS & REFS 1ST FLR DM$0$3RFGBGD",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-TAGS & REFS 1ST FLR DM$0$3RFTGRDSJ",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "flooring",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-TAGS & REFS 1ST FLR DM$0$_Open90",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "count": 1,
+          "cost_factor": 1.3
+        },
+        {
+          "material": "ceiling",
+          "source": "text:unknown",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "finishes",
+          "cost_factor": 0.8
+        },
+        {
+          "material": "flooring",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "interior",
+          "subcategory": "finishes",
+          "cost_factor": 1.3
+        }
+      ],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 126,
+        "materials": [
+          "flooring",
+          "ceiling"
+        ]
+      }
+    },
+    "fixtures": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "furnishings": {
+      "materials": [
+        {
+          "material": "furniture",
+          "source": "block:xref-3F_06oct2015$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture",
+          "source": "block:xref-3F_06oct2015$0$X-PLAN_A1_GRD$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture",
+          "source": "block:xref-3F_06oct2015$0$Tables",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture",
+          "source": "block:X-PLAN_A1_GRD$0$LAYOUT2$0$REC CHAIR",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture",
+          "source": "block:Tables",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture",
+          "source": "block:FURNITURE",
+          "confidence": "medium",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "count": 1,
+          "cost_factor": 1.1
+        },
+        {
+          "material": "furniture_chair_other_chair",
+          "source": "block:furniture:unknown",
+          "confidence": "high",
+          "category": "interior",
+          "subcategory": "furnishings",
+          "cost_factor": 1.1,
+          "furniture_type": "chair",
+          "furniture_subtype": "other_chair"
+        }
+      ],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 7,
+        "materials": [
+          "furniture_chair_other_chair",
+          "furniture"
+        ]
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 133,
+      "material_count": 4
+    }
+  },
+  "architectural": {
+    "openings": {
+      "materials": [
+        {
+          "material": "door",
+          "source": "layer:X-TAGS & REFS 3RD FLR DM$0$A-DOOR TAGGING",
+          "confidence": "medium",
+          "category": "architectural",
+          "subcategory": "openings",
+          "volume": 0.0,
+          "area": 0.0,
+          "length": 0.0,
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:A1-04 FIRST FLOOR PLAN$0$X-1stFloorPlan$0$D1000x200 SERVICE DOOR",
+          "confidence": "medium",
+          "category": "architectural",
+          "subcategory": "openings",
+          "count": 1,
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        },
+        {
+          "material": "door",
+          "source": "block:x-tags & refs 3rd flr dm$0$3rfgbgd:unknown",
+          "confidence": "high",
+          "category": "architectural",
+          "subcategory": "openings",
+          "cost_factor": 1.2
+        }
+      ],
+      "totals": {
+        "volume": 0.0,
+        "area": 0.0,
+        "length": 0.0,
+        "item_count": 57,
+        "materials": [
+          "door"
+        ]
+      }
+    },
+    "facades": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "ceilings": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "floors": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "stairs": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0.0,
+      "area": 0.0,
+      "length": 0.0,
+      "item_count": 57,
+      "material_count": 1
+    }
+  },
+  "mep": {
+    "plumbing": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "mechanical": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "electrical": {
+      "materials": [
+        {
+          "material": "electrical",
+          "source": "block:65_RJ45 Data outlet - RJ45 Single Socket-V496-0 - Power Layout",
+          "confidence": "medium",
+          "category": "mep",
+          "subcategory": "electrical",
+          "count": 1,
+          "cost_factor": 1.5
+        },
+        {
+          "material": "electrical",
+          "source": "block:62_13Amps Twin Switched Socket - 13Amps Twin Socket-6733575-0 - Power Layout",
+          "confidence": "medium",
+          "category": "mep",
+          "subcategory": "electrical",
+          "count": 1,
+          "cost_factor": 1.5
+        },
+        {
+          "material": "electrical",
+          "source": "block:62_13Amps Single Switched Socket on Floor - 13Amps Single Socket-2974396-0 - Power Layout",
+          "confidence": "medium",
+          "category": "mep",
+          "subcategory": "electrical",
+          "count": 1,
+          "cost_factor": 1.5
+        }
+      ],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 3,
+        "materials": [
+          "electrical"
+        ]
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 3,
+      "material_count": 1
+    }
+  },
+  "systems": {
+    "security": {
+      "materials": [
+        {
+          "material": "security",
+          "source": "block:CCTV",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "count": 1,
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "block:BULLET CAMERA",
+          "confidence": "medium",
+          "category": "systems",
+          "subcategory": "security",
+          "count": 1,
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "medium",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        },
+        {
+          "material": "security",
+          "source": "text:unknown",
+          "confidence": "low",
+          "category": "systems",
+          "subcategory": "security",
+          "cost_factor": 2.0
+        }
+      ],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 9,
+        "materials": [
+          "security"
+        ]
+      }
+    },
+    "communication": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "fire_protection": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "transportation": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "equipment": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 9,
+      "material_count": 1
+    }
+  },
+  "other": {
+    "unknown": {
+      "materials": [
+        {
+          "material": "unknown",
+          "source": "layer:0",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 58640.03379821777,
+          "length": 116263.19340435232,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "unknown",
+          "source": "layer:A-DIM IN",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 0.0,
+          "length": 0.0,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "unknown",
+          "source": "layer:X-TAGGING DM$0$A-ANNOTATION",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 70685693.33417161,
+          "length": 573349.0501055651,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "unknown",
+          "source": "layer:X-TAGGING DM$0$A-TAGS",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 0.0,
+          "length": 57187.24253330192,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "unknown",
+          "source": "layer:X-TAGS & REFS 3RD FLR DM$0$A-TAGS",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 212616421.4516679,
+          "length": 188791.94129241968,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "unknown",
+          "source": "layer:EL-DIM",
+          "confidence": "none",
+          "category": "other",
+          "subcategory": "unknown",
+          "volume": 0.0,
+          "area": 0.0,
+          "length": 0.0,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK$0$_ArchTick",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK$0$X-REF TITLE 2$0$NEB-LOGO",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK$0$_Dot",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK$0$A$C050E7D83",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:X-TBLOCK$0$NORTH-2",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:A1-Title sheet$0$X-TBLOCK$0$neb_dwg__E3-409747-",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:A1-Title sheet$0$X-TBLOCK$0$neb_dwg-409746-",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:XREF- TITLE. A1$0$x-Upper Roof Plan",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "site",
+          "source": "block:XREF- TITLE. A1$0$X-SETTING OUT PLAN$0$X-PLAN_SITE$0$TREEU",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:XREF- TITLE. A1$0$x-Upper Roof Plan$0$A$C3C7143EB",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:XREF- TITLE. A1$0$x-Upper Roof Plan$0$A$C3829605A",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:XREF- TITLE. A1$0$x-Upper Roof Plan$0$DOMESTIC TANK",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:XREF- TITLE. A1$0$x-Upper Roof Plan$0$_Open90",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "roof",
+          "source": "block:X-TAGS & REFS ROOF DM$0$TICK1",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:BLOCK DEFINITION",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        },
+        {
+          "material": "masonry",
+          "source": "block:Title Block - 3F",
+          "confidence": "medium",
+          "category": "other",
+          "subcategory": "unknown",
+          "count": 1,
+          "cost_factor": 1.0
+        }
+      ],
+      "totals": {
+        "volume": 0.0,
+        "area": 283360754.8196377,
+        "length": 935591.427335639,
+        "item_count": 23,
+        "materials": [
+          "masonry",
+          "unknown",
+          "roof",
+          "site"
+        ]
+      }
+    },
+    "_totals": {
+      "volume": 0.0,
+      "area": 283360754.8196377,
+      "length": 935591.427335639,
+      "item_count": 23,
+      "material_count": 4
+    }
+  }
+}

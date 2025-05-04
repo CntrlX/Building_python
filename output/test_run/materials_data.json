@@ -1,0 +1,375 @@
+{
+  "structural": {
+    "concrete": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "steel": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "wood": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "envelope": {
+    "masonry": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "glazing": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "insulation": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "roofing": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "interior": {
+    "partitions": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "finishes": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "fixtures": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "furnishings": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "architectural": {
+    "openings": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "facades": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "ceilings": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "floors": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "stairs": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "mep": {
+    "plumbing": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "mechanical": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "electrical": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "systems": {
+    "security": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "communication": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "fire_protection": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "transportation": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "equipment": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "other": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  },
+  "other": {
+    "unknown": {
+      "materials": [],
+      "totals": {
+        "volume": 0,
+        "area": 0,
+        "length": 0,
+        "item_count": 0,
+        "materials": []
+      }
+    },
+    "_totals": {
+      "volume": 0,
+      "area": 0,
+      "length": 0,
+      "item_count": 0,
+      "material_count": 0
+    }
+  }
+}

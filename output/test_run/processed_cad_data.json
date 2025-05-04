@@ -1,0 +1,14 @@
+{
+  "file_info": {
+    "file_name": "data.dwg",
+    "file_path": "data\\data.dwg",
+    "file_type": "dwg",
+    "version": "unknown"
+  },
+  "entities": [],
+  "layers": {},
+  "blocks": {},
+  "metadata": {
+    "note": "DWG processing is limited. Consider converting to DXF for full feature support."
+  }
+}

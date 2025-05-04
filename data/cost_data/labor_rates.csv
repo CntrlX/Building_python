@@ -1,0 +1,14 @@
+trade,unit,rate,currency,date_updated
+general_labor,hour,25.0,USD,2025-04-24
+carpenter,hour,35.0,USD,2025-04-24
+electrician,hour,45.0,USD,2025-04-24
+plumber,hour,50.0,USD,2025-04-24
+hvac_technician,hour,48.0,USD,2025-04-24
+concrete_worker,hour,32.0,USD,2025-04-24
+mason,hour,38.0,USD,2025-04-24
+roofer,hour,34.0,USD,2025-04-24
+painter,hour,30.0,USD,2025-04-24
+steel_worker,hour,42.0,USD,2025-04-24
+glazier,hour,36.0,USD,2025-04-24
+tile_setter,hour,35.0,USD,2025-04-24
+drywall_installer,hour,32.0,USD,2025-04-24

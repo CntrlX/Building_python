@@ -1,0 +1,9 @@
+_pycache_
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+data/dataset/SFPI/

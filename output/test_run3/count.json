@@ -1,0 +1,89 @@
+{
+  "project_info": {
+    "name": "data",
+    "file_path": "data\\data.dxf",
+    "units": "mm"
+  },
+  "material_counts": {
+    "unknown": {
+      "count": 6,
+      "category": "other",
+      "subcategory": "unknown"
+    },
+    "door": {
+      "count": 32,
+      "category": "architectural",
+      "subcategory": "openings"
+    },
+    "glass": {
+      "count": 1,
+      "category": "envelope",
+      "subcategory": "glazing"
+    },
+    "flooring": {
+      "count": 125,
+      "category": "interior",
+      "subcategory": "finishes"
+    },
+    "concrete": {
+      "count": 8,
+      "category": "structural",
+      "subcategory": "concrete"
+    },
+    "masonry": {
+      "count": 10,
+      "category": "other",
+      "subcategory": "unknown"
+    },
+    "electrical": {
+      "count": 3,
+      "category": "mep",
+      "subcategory": "electrical"
+    },
+    "furniture": {
+      "count": 6,
+      "category": "interior",
+      "subcategory": "furnishings"
+    },
+    "roof": {
+      "count": 6,
+      "category": "other",
+      "subcategory": "unknown"
+    },
+    "site": {
+      "count": 1,
+      "category": "other",
+      "subcategory": "unknown"
+    },
+    "security": {
+      "count": 9,
+      "category": "systems",
+      "subcategory": "security"
+    },
+    "furniture_chair_other_chair": {
+      "count": 1,
+      "category": "interior",
+      "subcategory": "furnishings"
+    },
+    "ceiling": {
+      "count": 1,
+      "category": "interior",
+      "subcategory": "finishes"
+    },
+    "window": {
+      "count": 2,
+      "category": "architectural",
+      "subcategory": "openings"
+    },
+    "wall": {
+      "count": 12,
+      "category": "interior",
+      "subcategory": "furnishings"
+    },
+    "other": {
+      "count": 146,
+      "category": "interior",
+      "subcategory": "furnishings"
+    }
+  }
+}

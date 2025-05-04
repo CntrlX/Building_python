@@ -1,0 +1,13 @@
+{
+  "image_paths": [
+    "test_pdf_output\\page_1.png"
+  ],
+  "metadata": {
+    "page_count": 1,
+    "title": "TF - CCTV",
+    "author": "",
+    "creation_date": "D:20170502101947",
+    "modification_date": "D:20170502101947"
+  },
+  "original_pdf": "data\\data.pdf"
+}

@@ -1,0 +1,53 @@
+{
+  "total_cost": 0.0,
+  "material_costs": {},
+  "labor_costs": {
+    "total": 0.0
+  },
+  "categories": {
+    "structural": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "envelope": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "interior": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "architectural": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "mep": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "systems": {
+      "total_cost": 0.0,
+      "items": []
+    },
+    "other": {
+      "total_cost": 0.0,
+      "items": []
+    }
+  },
+  "summary": {
+    "materials_subtotal": 0.0,
+    "labor_subtotal": 0.0,
+    "total": 0.0,
+    "currency": "USD"
+  },
+  "location_factor": 1.0,
+  "currency": "USD",
+  "timestamp": "2025-05-02 12:26:12",
+  "project_info": {
+    "name": "data.dwg",
+    "location": "Default",
+    "drawing_units": "Unknown",
+    "drawing_scale": "1:1",
+    "estimation_date": "2025-05-02"
+  }
+}

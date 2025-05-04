@@ -1,0 +1,34 @@
+{
+  "doors": {
+    "count": 1,
+    "confidence": "medium",
+    "details": "1. **doors:**"
+  },
+  "security_cameras": {
+    "count": 3,
+    "confidence": "medium",
+    "details": "3. **furniture:**"
+  },
+  "furniture": {
+    "tables": {
+      "count": 0,
+      "confidence": "low",
+      "details": ""
+    },
+    "chairs": {
+      "count": 0,
+      "confidence": "low",
+      "details": ""
+    },
+    "cabinets": {
+      "count": 0,
+      "confidence": "low",
+      "details": ""
+    },
+    "other": {
+      "count": 0,
+      "confidence": "low",
+      "details": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "device": "cpu",
+    "label_percentage": 1.0,
+    "batch_size": null,
+    "use_synthetic": false,
+    "learning_rate": 0.01,
+    "max_iterations": 80000,
+    "resume": false,
+    "timestamp": "2025-05-04 17:04:08"
+}

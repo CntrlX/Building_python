@@ -1,0 +1,38 @@
+# Memory File for Mask-Aware Semi-Supervised Object Detection Project
+
+## Project Overview
+- Working on a semi-supervised object detection model implementation
+- Located at /z:/Code/AcuteAngle/building-ai-agent/python/odm
+- Goal is to improve error handling, logging, and user experience
+
+## Key Files
+- odm/main.py: Main entry point with command-line interface
+- odm/utils/trainer.py: Contains training and evaluation logic
+- odm/utils/dataset.py: Dataset implementation with enhanced error handling
+- odm/train.bat: Windows batch file for running training
+- odm/train.ps1: PowerShell script for running training
+
+## Recent Changes
+- Updated training script to include better error handling during validation
+- Modified dataset loading to handle large images and improve error reporting
+- Enhanced training loop to continue despite individual batch errors
+- Created comprehensive troubleshooting guide
+- Updated README.md with improved documentation
+- Updated train.bat with enhanced command-line interface
+- Updated train.ps1 to match functionality of train.bat
+
+## Command-line Options
+- --mode [train|val|test]: Mode to run
+- --device [cuda|cpu]: Device to use
+- --label-percentage VALUE: Percentage of labeled data
+- --batch-size VALUE: Batch size for training
+- --resume: Resume training from checkpoint
+- --use-synthetic: Use synthetic annotations
+- --model-path PATH: Path to model for validation/testing
+- --image-path PATH: Path to image for testing
+- --test: Run synthetic annotation test
+- --debug: Enable debug output
+
+## Current Task
+- Updated PowerShell script (train.ps1) to match batch file functionality
+- Both scripts now provide consistent interface across Windows environments 

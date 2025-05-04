@@ -1,0 +1,6 @@
+2025-05-04 16:59:41,545 - main - INFO - Starting ODM...
+2025-05-04 16:59:41,545 - main - INFO - Mode: train
+2025-05-04 16:59:41,545 - main - INFO - Device: cuda
+2025-05-04 16:59:41,545 - main - WARNING - CUDA is not available. Falling back to CPU.
+2025-05-04 16:59:41,545 - main - INFO - Starting training...
+2025-05-04 16:59:57,035 - main - INFO - Done.
